@@ -15,11 +15,13 @@ This is my list of stars
 
 [writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust)
 
+[rust-blog](https://github.com/pretzelhammer/rust-blog)
+
 [microservices](https://github.com/DocsHome/microservices)
 
 [MIT6.824 中文字幕](https://github.com/ivanallen/thor)
 
-[high-performance-g](https://github.com/geektutu/high-performance-go)
+[high-performance-go](https://github.com/geektutu/high-performance-go)
 
 [常用正则](https://github.com/cdoco/common-regex)
 
