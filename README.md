@@ -7,6 +7,16 @@ This is my list of stars
 
 [Holfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
+[draveness](https://draveness.me)
+
+[陈皓](https://coolshell.cn/haoel)
+
+[Sohamkamani](https://www.sohamkamani.com/blog)
+
+[骏马金龙](https://www.junmajinlong.com/)
+
+[iv4n](https://iv4n.cc/)
+
 ### Cpp
 
 [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
