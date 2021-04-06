@@ -6,16 +6,20 @@ This is my list of stars
 ### Blog
 
 - [Holfrost-Field](https://github.com/halfrost/Halfrost-Field)
-
 - [draveness](https://draveness.me)
-
 - [陈皓](https://coolshell.cn/haoel)
-
 - [Sohamkamani](https://www.sohamkamani.com/blog)
-
 - [骏马金龙](https://www.junmajinlong.com/)
-
 - [iv4n](https://iv4n.cc/)
+
+### Book
+
+- [IT-Book](https://github.com/XiangLinPro/IT_book)
+- [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+- [awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1)
+- [StudyNotes](https://github.com/krislinzhao/StudyNotes)
+- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+- [technical_books](https://github.com/TIM168/technical_books)
 
 ### Cpp
 
@@ -25,21 +29,21 @@ This is my list of stars
 
 - [iCSS](https://github.com/chokcoco/iCSS)
 
-### Common
+### Collection
 
 - [CS-missing-semester](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 造轮子系列
+- [json-tutorial](https://github.com/miloyip/json-tutorial) - Write a json parser in C
 
-- [IT-Book](https://github.com/XiangLinPro/IT_book)
+- [app-ideas](https://github.com/florinpop17/app-ideas)
 
-- [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-- [awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1)
+- [500lines](https://github.com/aosabook/500lines)
 
-- [StudyNotes](https://github.com/krislinzhao/StudyNotes)
+- [Programming-Alpha-To-Omega](https://github.com/justjavac/Programming-Alpha-To-Omega)
 
-- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
-
-- [technical_books](https://github.com/TIM168/technical_books)
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
 ### Distributed System
 
@@ -68,22 +72,6 @@ This is my list of stars
 ### Games
 
 - [games201](https://github.com/taichi-dev/games201)
-
-### Ideas
-
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 造轮子系列
-
-- [json-tutorial](https://github.com/miloyip/json-tutorial) - Write a json parser in C
-
-- [app-ideas](https://github.com/florinpop17/app-ideas)
-
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-
-- [500lines](https://github.com/aosabook/500lines)
-
-- [Programming-Alpha-To-Omega](https://github.com/justjavac/Programming-Alpha-To-Omega)
-
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
 ### Javascript
 
