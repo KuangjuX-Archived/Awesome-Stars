@@ -1,5 +1,30 @@
 # Awesome-Stars
-This is my list of stars
+This is my list of stars.
+
+## Catalogue
+
+- [Tutorial](#Tutorial)
+    - [Blog](#Blog)
+    - [Book](#Book)
+    - [Cpp](#Cpp)
+    - [CSS](#CSS)
+    - [Collection](#Collection)
+    - [Distributed System](#Distributed System)
+    - [Go](#Go)
+    - [Games](Games)
+    - [javascript](#javascript)
+    - [Leetcode](#Leetcode)
+    - [MPI](#MPI)
+    - [MQ](#MQ)
+    - [ML](#ML)
+    - [OS](#OS)
+    - [Python](#Python)
+    - [Rust](#Rust)
+    - [Regex](#Regex)
+    - [Vue](#Vue)
+- [Lib](#Lib)
+
+
 
 ## Tutorial
 
@@ -31,7 +56,11 @@ This is my list of stars
 
 ### Collection
 
-- [CS-missing-semester](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+- [awesome](https://github.com/sindresorhus/awesome) - awesome集合
+
+- [awesome-python](https://github.com/vinta/awesome-python) - awesome python project
+
+- [CS-missing-semester](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - CS教学中缺失（一些工具）
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 造轮子系列
 - [json-tutorial](https://github.com/miloyip/json-tutorial) - Write a json parser in C
 
@@ -73,7 +102,7 @@ This is my list of stars
 
 - [games201](https://github.com/taichi-dev/games201)
 
-### Javascript
+### javascript
 
 - [现代javascript教程](https://github.com/javascript-tutorial/zh.javascript.info)
 
@@ -132,3 +161,25 @@ This is my list of stars
 - [Vue源码分析](https://github.com/qq281113270/vue)
 
 - [vue.js源码分析](https://github.com/ustbhuangyi/vue-analysis)
+
+
+
+
+
+## Lib
+
+### Rust
+
+- [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [icecream-rs](https://github.com/chang/icecream-rs) - Better print debugging for Rust
+- [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
+- [riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors
+- [cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
+- [cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis
+- [stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
+- [maomi](https://github.com/LastLeaf/maomi) - maomi: a rust wasm framework for building pages with components
+- [Speed2D](https://github.com/QuantumBadger/Speedy2D) - Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [rustsbi](https://github.com/luojia65/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem
+- [buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust.
+- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
