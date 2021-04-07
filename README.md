@@ -23,7 +23,7 @@ This is my list of stars.
     - [Regex](#Regex)
     - [Vue](#Vue)
 - [Lib](#Lib)
-    - [Rust](#Rust)
+    - [Rust-Lib](#Rust-Lib)
 
 
 
@@ -57,9 +57,9 @@ This is my list of stars.
 
 ### Collection
 
-- [awesome](https://github.com/sindresorhus/awesome) - awesome集合
+- [awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 
-- [awesome-python](https://github.com/vinta/awesome-python) - awesome python project
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 
 - [CS-missing-semester](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - CS教学中缺失（一些工具）
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 造轮子系列
@@ -119,7 +119,7 @@ This is my list of stars.
 
 ### MPI
 
-- [MPI Tutorial](https://github.com/mpitutorial/mpitutorial)
+- [MPI Tutorial](https://github.com/mpitutorial/mpitutorial) - MPI programming lessons in C and executable code examples
 
 ### MQ
 
@@ -133,7 +133,7 @@ This is my list of stars.
 
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
-- [Rust-OS](https://github.com/phil-opp/blog_os)
+- [Rust-OS](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 
 - [rCore-Tutorial](https://github.com/rcore-os/rCore-Tutorial)
 
@@ -169,7 +169,7 @@ This is my list of stars.
 
 ## Lib
 
-### Rust
+### Rust-Lib
 
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [icecream-rs](https://github.com/chang/icecream-rs) - Better print debugging for Rust
