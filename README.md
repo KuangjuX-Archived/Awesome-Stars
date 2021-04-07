@@ -9,7 +9,7 @@ This is my list of stars.
     - [Cpp](#Cpp)
     - [CSS](#CSS)
     - [Collection](#Collection)
-    - [Distributed System](#Distributed System)
+    - [Distributed-System](#Distributed-System)
     - [Go](#Go)
     - [Games](Games)
     - [javascript](#javascript)
@@ -23,6 +23,7 @@ This is my list of stars.
     - [Regex](#Regex)
     - [Vue](#Vue)
 - [Lib](#Lib)
+    - [Rust](#Rust)
 
 
 
@@ -74,7 +75,7 @@ This is my list of stars.
 
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
-### Distributed System
+### Distributed-System
 
 - [Docker-从入门到实践](https://github.com/yeasy/docker_practice)
 
