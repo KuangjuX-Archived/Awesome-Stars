@@ -22,14 +22,20 @@ This is my list of stars.
     - [Rust](#Rust)
     - [Regex](#Regex)
     - [Vue](#Vue)
+    
 - [Lib](#Lib)
-    - [Rust-Lib](#Rust-Lib)
+    
+    - Go
+    
+    - Rust
 
 
 
 ## Tutorial
 
 ### Blog
+
+- [godbasin.github.io](https://github.com/godbasin/godbasin.github.io) - 被删前端博客--喜欢请star
 
 - [Holfrost-Field](https://github.com/halfrost/Halfrost-Field)
 - [draveness](https://draveness.me)
@@ -56,6 +62,8 @@ This is my list of stars.
 - [iCSS](https://github.com/chokcoco/iCSS)
 
 ### Collection
+
+- [PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
 
 - [awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 
@@ -91,7 +99,7 @@ This is my list of stars.
 
 - [go夜读](https://github.com/talkgo/night)
 
-- [go101](https://github.com/golang101/golang101)
+- [go101](https://github.com/golang101/golang101) - An online book focusing on Go syntax/semantics and runtime related things
 
 - [Go语言圣经](https://github.com/golang-china/gopl-zh)
 
@@ -101,7 +109,7 @@ This is my list of stars.
 
 ### Games
 
-- [games201](https://github.com/taichi-dev/games201)
+- [games201](https://github.com/taichi-dev/games201) - Advanced Physics Engines 2020: A Hands-on Tutorial
 
 ### javascript
 
@@ -123,7 +131,7 @@ This is my list of stars.
 
 ### MQ
 
-- [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)
+- [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 
 ### ML
 
@@ -163,13 +171,25 @@ This is my list of stars.
 
 - [vue.js源码分析](https://github.com/ustbhuangyi/vue-analysis)
 
+### Web
 
+- [Senior-FrontEnd](https://github.com/hejialianghe/Senior-FrontEnd) - 🔥 🔥🔥 🔥🔥 高级开发工程师必备，打通全栈任督二脉，文档地址gitee版：https://hejialianghe.gitee.io/
 
 
 
 ## Lib
 
-### Rust-Lib
+### Go
+
+- [oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
+- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+
+### Rust
+
+- [piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
+
+- [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [icecream-rs](https://github.com/chang/icecream-rs) - Better print debugging for Rust
@@ -184,3 +204,73 @@ This is my list of stars.
 - [rustsbi](https://github.com/luojia65/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem
 - [buddy_system_allocator](https://github.com/rcore-os/buddy_system_allocator) - A buddy system allocator in pure Rust.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+
+## Project
+
+### CPU
+
+- [VexRiscv ](https://github.com/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation
+- [hakula139/MIPS-CPU](https://github.com/hakula139/MIPS-CPU) - A MIPS processor with Cache and Advanced Branch Predictor written in SystemVerilog
+
+### Complier
+
+- [pku-minic/first-step](https://github.com/pku-minic/first-step) - Take your first step in writing a compiler.
+
+### DB
+
+- [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+- [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+
+### Example
+
+- [rust-commandline-example](https://github.com/zupzup/rust-commandline-example) - Example for building a command line application using Rust
+- [Rust-Audio-TCP-Stream](https://github.com/Franchovy/Rust-Audio-TCP-Stream) - Setting up a server transmitting audio to a client in rust.
+
+### Game
+
+- [OpenPAL3](https://github.com/dontpanic92/OpenPAL3) - 仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3
+
+### Interest
+
+- [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+- [Rust-Chat](https://github.com/KuangjuX/Rust-Chat) - Implementation of network chatroom to support message, file and audio transfer in Rust
+- [rust-piano](https://github.com/SKTT1Ryze/rust-piano) - A Keyboard Piano written with Rust
+
+### OS
+
+- [linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust)
+- [linux-0.11)](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
+- [biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS
+- [Rust-for-Linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
+- [NotYetOS](https://github.com/NotYetOS/os) - Try to write an OS using what I learnt and what I will to learn from rcore-os/rCore-Tutorial-v3
+- [JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
+- [HUST-OS/xv6-k210](https://github.com/HUST-OS/xv6-k210) - Porting XV6 on K210!
+- [GeeOS](https://github.com/MaxXSoft/GeeOS) - The Gee (寂) Operating System, written in YuLang.
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
+- [Jaic1/xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust)
+- [skyzh/core-os-riscv](https://github.com/skyzh/core-os-riscv) - 🖥️ An xv6-like operating system on RISC-V with multi-core support. Documentation available online.
+- [TisuOS](https://github.com/belowthetree/TisuOS)
+- [rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
+
+### Tools
+
+- [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in Rust
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+- [proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+
+### Web
+
+- [make-a-fortune](https://github.com/skyzh/make-a-fortune) - An open-source anonymous forum frontend
+- [Substats](https://github.com/spencerwooo/Substats) - Shhhh...we're counting your subscribers!
+- [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
+- [web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
+- [NOJ](https://github.com/ZsgsDesign/NOJ) - ⚡ open-source online judge based on Laravel | 南京邮电大学开源 Online Judge | QQ群：668108264
+- [Rabbit-OJ-Backend](https://github.com/Rabbit-OJ/Rabbit-OJ-Backend) - Using Go & MySQL & Docker & Web Socket & gRPC & Kafka & Zookeeper & Protobuf. Distributed and Scalable Open Judge System for Algorithms.
+
+## Sepc
+
+- [rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
+- [riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
+- [riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) - PLIC Specification
