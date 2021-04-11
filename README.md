@@ -27,13 +27,11 @@ This is my list of stars.
     - Web
     
 - [Lib](#Lib)
-  
-    - PHP
-    
     - Go
+    - PHP
     - Rust
     - Web
-    
+
 - [Project](#Project)
 
     - CPU
@@ -200,6 +198,12 @@ This is my list of stars.
 
 ## Lib
 
+### Go
+
+- [oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
+- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+
 ### PHP
 
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
@@ -209,13 +213,9 @@ This is my list of stars.
 - [laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 
-### Go
-
-- [oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
-- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
-
 ### Rust
+
+- [embedded-hal](https://github.com/rust-embedded/embedded-hal) - A Hardware Abstraction Layer (HAL) for embedded systems
 
 - [piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
@@ -249,10 +249,14 @@ This is my list of stars.
 
 ### CPU
 
+- [nontrivial-mips](https://github.com/trivialmips/nontrivial-mips) - NonTrivial-MIPS is a synthesizable superscalar MIPS processor with branch prediction and FPU support, and it is capable of booting linux.
+
 - [VexRiscv ](https://github.com/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation
 - [hakula139/MIPS-CPU](https://github.com/hakula139/MIPS-CPU) - A MIPS processor with Cache and Advanced Branch Predictor written in SystemVerilog
 
 ### Complier
+
+- [TrivialCompiler)](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
 
 - [pku-minic/first-step](https://github.com/pku-minic/first-step) - Take your first step in writing a compiler.
 
@@ -273,6 +277,8 @@ This is my list of stars.
 - [kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版，已完工
 
 ### Interest
+
+- [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:[http://tinyhttpd.sourceforge.net](http://tinyhttpd.sourceforge.net/)
 
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [Rust-Chat](https://github.com/KuangjuX/Rust-Chat) - Implementation of network chatroom to support message, file and audio transfer in Rust
@@ -296,6 +302,8 @@ This is my list of stars.
 - [rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 
 ### Tools
+
+- [smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in Rust
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
@@ -328,6 +336,9 @@ This is my list of stars.
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 
 ## Spec
+
+- [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
+- [virtio-spec](https://github.com/oasis-tcs/virtio-spec) - OASIS Virtual I/O Device TC: Source code for the VIRTIO (Virtual I/O) Specification maintained by the OASIS Virtual I/O Device (VIRTIO) Technical Committee
 
 - [rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
