@@ -60,6 +60,8 @@ This is my list of stars.
 
 ### Book
 
+- [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
+
 - [IT-Book](https://github.com/XiangLinPro/IT_book)
 - [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 - [awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1)
@@ -77,10 +79,14 @@ This is my list of stars.
 
 ### Collection
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+- [jackwener/CS-Quality-Courses](https://github.com/jackwener/CS-Quality-Courses) - 计算机的优秀课程
+
 - [PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
 - [awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [CS-missing-semester](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - CS教学中缺失（一些工具）
+- [CS-missing-semester](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -104,13 +110,13 @@ This is my list of stars.
 
 ### Go
 
-- [high-performance-go](https://github.com/geektutu/high-performance-go)
+- [high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 
-- [go-by-example](https://github.com/gobyexample-cn/gobyexample)
+- [go-by-example](https://github.com/gobyexample-cn/gobyexample) - Go by Example 通过例子学 Golang
 
-- [go夜读](https://github.com/talkgo/night)
+- [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 
-- [go101](https://github.com/golang101/golang101) - An online book focusing on Go syntax/semantics and runtime related things
+- [golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
 
 - [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - 📚 Go语言圣经中文版
 
@@ -235,6 +241,8 @@ This is my list of stars.
 
 ### Web
 
+- [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
+
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
@@ -256,7 +264,7 @@ This is my list of stars.
 
 ### Complier
 
-- [TrivialCompiler)](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
+- [TrivialCompiler](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
 
 - [pku-minic/first-step](https://github.com/pku-minic/first-step) - Take your first step in writing a compiler.
 
@@ -288,7 +296,7 @@ This is my list of stars.
 ### OS
 
 - [linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust)
-- [linux-0.11)](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
+- [linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
 - [biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS
 - [Rust-for-Linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [NotYetOS](https://github.com/NotYetOS/os) - Try to write an OS using what I learnt and what I will to learn from rcore-os/rCore-Tutorial-v3
@@ -304,7 +312,8 @@ This is my list of stars.
 ### Tools
 
 - [smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
-
+- [opensbi](https://github.com/riscv/opensbi) - RISC-V Open Source Supervisor Binary Interface
+- [steal_piano](https://github.com/RimoChan/steal_piano) - 【steal piano】GitHub偷情分析工具！
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in Rust
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - ⚡ Dynamically generated stats for your github readmes
@@ -339,7 +348,8 @@ This is my list of stars.
 
 - [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
 - [virtio-spec](https://github.com/oasis-tcs/virtio-spec) - OASIS Virtual I/O Device TC: Source code for the VIRTIO (Virtual I/O) Specification maintained by the OASIS Virtual I/O Device (VIRTIO) Technical Committee
-
 - [rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) - Working Draft of the RISC-V Debug Specification Standard
 - [riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) - PLIC Specification
+- [riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
+- [riscv-asm-manual](https://github.com/riscv/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
