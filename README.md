@@ -77,7 +77,16 @@ This is my list of stars.
 
 - [iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
+### Compiler
+
+- [becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer)  编译器入门课程的配套教学资料
+- [acwj](https://github.com/DoctorWkt/acwj) A Compiler Writing Journey
+
 ### Collection
+
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) A curated list of Rust code and resources.
+
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
@@ -104,7 +113,11 @@ This is my list of stars.
 - [microservices](https://github.com/DocsHome/microservices)
 - [MIT 6.824 中文字幕](https://github.com/ivanallen/thor)
 
-### Futter
+### Emulator
+
+- [writing-your-first-riscv-simulator](https://github.com/plctlab/writing-your-first-riscv-simulator)  《从零开始的RISC-V模拟器开发》配套的PPT和教学资料
+
+### Flutter
 
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 
@@ -136,12 +149,13 @@ This is my list of stars.
 ### Leetcode
 
 - [Leetcode-go](https://github.com/halfrost/LeetCode-Go)
-
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+
+### Linux
+
+- [LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) Linux内核与设备驱动程序学习笔记
 
 ### MPI
 
@@ -156,6 +170,8 @@ This is my list of stars.
 - [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 
 ### OS
+
+- [riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc) 《从头写一个RISC-V OS》课程配套的资源
 
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
@@ -204,6 +220,11 @@ This is my list of stars.
 
 ## Lib
 
+### Cpp
+
+- [nlohmann/json](https://github.com/nlohmann/json) JSON for Modern C++
+- [microsoft/STL](https://github.com/microsoft/STL) MSVC's implementation of the C++ Standard Library.
+
 ### Go
 
 - [oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
@@ -220,6 +241,8 @@ This is my list of stars.
 - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 
 ### Rust
+
+- [async-std](https://github.com/async-rs/async-std) Async version of the Rust standard library
 
 - [embedded-hal](https://github.com/rust-embedded/embedded-hal) - A Hardware Abstraction Layer (HAL) for embedded systems
 
@@ -264,6 +287,8 @@ This is my list of stars.
 
 ### Complier
 
+- [MimiC](https://github.com/ustb-owl/MimiC)  MimiC is a compiler of C subset (extended SysY language) by USTB NSCSCC team.
+
 - [TrivialCompiler](https://github.com/TrivialCompiler/TrivialCompiler) - A toy compiler written in C++17 that translates SysY (a C-like toy language) into ARM-v7a assembly.
 
 - [pku-minic/first-step](https://github.com/pku-minic/first-step) - Take your first step in writing a compiler.
@@ -279,7 +304,13 @@ This is my list of stars.
 - [rust-commandline-example](https://github.com/zupzup/rust-commandline-example) - Example for building a command line application using Rust
 - [Rust-Audio-TCP-Stream](https://github.com/Franchovy/Rust-Audio-TCP-Stream) - Setting up a server transmitting audio to a client in rust.
 
+### Emulator
+
+- [riscv-rust](https://github.com/takahirox/riscv-rust) RISC-V processor emulator written in Rust+WASM
+
 ### Game
+
+- [skyzh/fishing](https://github.com/skyzh/fishing) Yet another boring fishing game
 
 - [OpenPAL3](https://github.com/dontpanic92/OpenPAL3) - 仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3
 - [kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版，已完工
@@ -287,13 +318,21 @@ This is my list of stars.
 ### Interest
 
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:[http://tinyhttpd.sourceforge.net](http://tinyhttpd.sourceforge.net/)
-
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [Rust-Chat](https://github.com/KuangjuX/Rust-Chat) - Implementation of network chatroom to support message, file and audio transfer in Rust
 - [rust-piano](https://github.com/SKTT1Ryze/rust-piano) - A Keyboard Piano written with Rust
 - [purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+- [gushi_namer](https://github.com/holynova/gushi_namer) 古诗文起名: 利用诗经 楚辞等给小朋友起名字
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 
 ### OS
+
+- [redleaf](https://github.com/mars-research/redleaf) RedLeaf Operating System
+
+- [kaist-cp/rv6](https://github.com/kaist-cp/rv6)
+- [hzcx998/BookOS](https://github.com/hzcx998/BookOS) BookOS is a tiny OS based on xbook2 kernel, you can use it to study!
+- [riscv/riscv-pk](https://github.com/riscv/riscv-pk) RISC-V Proxy Kernel
+- [NKU-EmbeddedSystem/riscv64-ucore](https://github.com/NKU-EmbeddedSystem/riscv64-ucore) public repository for 2020 operating system course project "riscv64-ucore"
 
 - [linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust)
 - [linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
